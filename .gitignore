@@ -1,0 +1,9 @@
+.cache/
+.idea/
+.vs/
+.vscode/
+build/
+prog
+prog.dSYM/
+.DS_Store
+
